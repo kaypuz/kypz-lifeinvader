@@ -1,0 +1,23 @@
+Config = {}
+
+Config.JobName = "lifeinvader"
+
+Config.LifeMoneyMin = 1
+Config.LifeMoneyMax = 3
+Config.LifeTip = 1 -- not always 
+
+Config.LifeMarker = {
+    ["lifehtml"] = vec3(-1063.36, -247.30, 44.02),
+    ["lifecss"]  = vec3(-1055.39, -242.79, 44.02),
+    ["lifejava"] = vec3(-1050.27, -240.36, 44.02),
+    ["lifeyazilim"] = vec3(-1055.21, -230.88, 44.02),
+    ["lifepaket"] = vec3(-1056.88, -233.16, 44.02),
+}
+
+Config.Locations = {
+    vec4(-71.01, -801.06, 44.23, 162.63),
+    vec4(4.68, -706.3, 45.97, 23.32),
+    vec4(269.38, -640.19, 42.02, 245.21),
+    vec4(237.7, -413.07, 48.11, 151.03),
+    vec4(-117.76, -606.41, 36.28, 84.83),
+}
