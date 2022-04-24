@@ -2,9 +2,9 @@ Config = {}
 
 Config.JobName = "lifeinvader"
 
-Config.LifeMoneyMin = 1
-Config.LifeMoneyMax = 3
-Config.LifeTip = 1 -- not always 
+Config.LifeMoneyMax = 3   -- En Yüksek Para Miktarı
+Config.LifeMoneyMin = 1   -- En Düşük Para Miktarı  
+Config.LifeTip = 1        -- Tip Versin Diyorsan Allah Ne Verdiyse %20 Tip Ver :D 
 
 Config.LifeMarker = {
     ["lifehtml"] = vec3(-1063.36, -247.30, 44.02),
