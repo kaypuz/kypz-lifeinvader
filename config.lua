@@ -12,6 +12,7 @@ Config.LifeMarker = {
     ["lifejava"] = vec3(-1050.27, -240.36, 44.02),
     ["lifeyazilim"] = vec3(-1055.21, -230.88, 44.02),
     ["lifepaket"] = vec3(-1056.88, -233.16, 44.02),
+    ["selllife"] = vec3(-1048.07, -238.16, 43.06),
 }
 
 Config.Locations = {
